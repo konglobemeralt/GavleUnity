@@ -1,0 +1,1091 @@
+fileFormatVersion: 2
+guid: 50c1915b978ac9a469cfcb57508e7876
+timeCreated: 1475311201
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f01000080010000810100008201000083010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 07a34d4c44705f174afd2a7c410a0861
+  longitude: 17.118829
+  latitude: 60.668344
+  northCorrection: 1.8494371050475706
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -197.1584, y: 25.783667, z: -185.47038}
+      lookAt: {x: -181.52547, y: 19.863718, z: -161.98192}
+      up: {x: 0.11377268, y: 0.97869, z: 0.17094329}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: door_1
+    100002: door_1 1
+    100004: door_1 2
+    100006: door_eastBasement
+    100008: door_eastBasement 1
+    100010: Group 10
+    100012: Group 100
+    100014: Group 102
+    100016: Group 104
+    100018: Group 106
+    100020: Group 108
+    100022: Group 110
+    100024: Group 112
+    100026: Group 114
+    100028: Group 116
+    100030: Group 118
+    100032: Group 12
+    100034: Group 120
+    100036: Group 122
+    100038: Group 124
+    100040: Group 126
+    100042: Group 128
+    100044: Group 130
+    100046: Group 132
+    100048: Group 134
+    100050: Group 136
+    100052: Group 138
+    100054: Group 14
+    100056: Group 140
+    100058: Group 142
+    100060: Group 144
+    100062: Group 146
+    100064: Group 148
+    100066: Group 150
+    100068: Group 152
+    100070: Group 154
+    100072: Group 156
+    100074: Group 16
+    100076: Group 18
+    100078: Group 2
+    100080: Group 20
+    100082: Group 22
+    100084: Group 24
+    100086: Group 26
+    100088: Group 28
+    100090: Group 30
+    100092: Group 32
+    100094: Group 34
+    100096: Group 36
+    100098: Group 38
+    100100: Group 4
+    100102: Group 40
+    100104: Group 42
+    100106: Group 44
+    100108: Group 46
+    100110: Group 48
+    100112: Group 50
+    100114: Group 52
+    100116: Group 54
+    100118: Group 56
+    100120: Group 58
+    100122: Group 6
+    100124: Group 60
+    100126: Group 62
+    100128: Group 64
+    100130: Group 66
+    100132: Group 68
+    100134: Group 70
+    100136: Group 72
+    100138: Group 74
+    100140: Group 76
+    100142: Group 78
+    100144: Group 8
+    100146: Group 80
+    100148: Group 82
+    100150: Group 84
+    100152: Group 86
+    100154: Group 88
+    100156: Group 90
+    100158: Group 92
+    100160: Group 94
+    100162: Group 96
+    100164: Group 98
+    100166: //RootNode
+    100168: stair_eastBasement
+    100170: stair_eastBasement 1
+    100172: stairWall_eastBasement
+    100174: stairWall_eastBasement 1
+    100176: stairWall_eastBasement 2
+    100178: stairWall_eastBasement 3
+    100180: window2x131
+    100182: window2x131 1
+    100184: window2x131 10
+    100186: window2x131 11
+    100188: window2x131 12
+    100190: window2x131 13
+    100192: window2x131 14
+    100194: window2x131 15
+    100196: window2x131 16
+    100198: window2x131 17
+    100200: window2x131 18
+    100202: window2x131 19
+    100204: window2x131 2
+    100206: window2x131 20
+    100208: window2x131 21
+    100210: window2x131 22
+    100212: window2x131 23
+    100214: window2x131 24
+    100216: window2x131 25
+    100218: window2x131 26
+    100220: window2x131 27
+    100222: window2x131 28
+    100224: window2x131 29
+    100226: window2x131 3
+    100228: window2x131 30
+    100230: window2x131 31
+    100232: window2x131 32
+    100234: window2x131 33
+    100236: window2x131 34
+    100238: window2x131 35
+    100240: window2x131 36
+    100242: window2x131 37
+    100244: window2x131 38
+    100246: window2x131 39
+    100248: window2x131 4
+    100250: window2x131 40
+    100252: window2x131 41
+    100254: window2x131 42
+    100256: window2x131 43
+    100258: window2x131 44
+    100260: window2x131 45
+    100262: window2x131 46
+    100264: window2x131 47
+    100266: window2x131 5
+    100268: window2x131 6
+    100270: window2x131 7
+    100272: window2x131 8
+    100274: window2x131 9
+    100276: window_1x03
+    100278: window_1x03 1
+    100280: window_1x03 2
+    100282: window_1x03 3
+    100284: window_1x03 4
+    100286: window_1x03 5
+    100288: window_1x03 6
+    100290: window_1x03 7
+    100292: window_1x_eastBasement
+    100294: window_1x_eastBasement 1
+    100296: window_2x131-05
+    100298: window_2x131-05NoSunp
+    100300: window_2x1x1
+    100302: window_2x1x1 1
+    100304: window_2x1x1 2
+    100306: window_2x1x1 3
+    100308: window_2x1x1 4
+    100310: window_2x1x1 5
+    100312: window_2x_eastBasement
+    100314: window_2x_eastBasement 1
+    100316: window_2x_eastBasement 2
+    100318: window_2x_eastBasement 3
+    100320: window_2x_eastBasement 4
+    100322: window_2x_eastBasement 5
+    100324: window_3x131
+    100326: window_3x131 1
+    100328: window_3x131 10
+    100330: window_3x131 11
+    100332: window_3x131 12
+    100334: window_3x131 2
+    100336: window_3x131 3
+    100338: window_3x131 4
+    100340: window_3x131 5
+    100342: window_3x131 6
+    100344: window_3x131 7
+    100346: window_3x131 8
+    100348: window_3x131 9
+    100350: window_3x131-05NoSunp
+    100352: window_3x131-05NoSunp 1
+    100354: window_3x131-05NoSunp 2
+    100356: window_3x131-05NoSunp 3
+    100358: window_3x131-05NoSunp 4
+    100360: window_4x131-05
+    100362: window_4x131-05 1
+    100364: window_4x131-05 10
+    100366: window_4x131-05 11
+    100368: window_4x131-05 12
+    100370: window_4x131-05 13
+    100372: window_4x131-05 2
+    100374: window_4x131-05 3
+    100376: window_4x131-05 4
+    100378: window_4x131-05 5
+    100380: window_4x131-05 6
+    100382: window_4x131-05 7
+    100384: window_4x131-05 8
+    100386: window_4x131-05 9
+    400000: door_1
+    400002: door_1 1
+    400004: door_1 2
+    400006: door_eastBasement
+    400008: door_eastBasement 1
+    400010: Group 10
+    400012: Group 100
+    400014: Group 102
+    400016: Group 104
+    400018: Group 106
+    400020: Group 108
+    400022: Group 110
+    400024: Group 112
+    400026: Group 114
+    400028: Group 116
+    400030: Group 118
+    400032: Group 12
+    400034: Group 120
+    400036: Group 122
+    400038: Group 124
+    400040: Group 126
+    400042: Group 128
+    400044: Group 130
+    400046: Group 132
+    400048: Group 134
+    400050: Group 136
+    400052: Group 138
+    400054: Group 14
+    400056: Group 140
+    400058: Group 142
+    400060: Group 144
+    400062: Group 146
+    400064: Group 148
+    400066: Group 150
+    400068: Group 152
+    400070: Group 154
+    400072: Group 156
+    400074: Group 16
+    400076: Group 18
+    400078: Group 2
+    400080: Group 20
+    400082: Group 22
+    400084: Group 24
+    400086: Group 26
+    400088: Group 28
+    400090: Group 30
+    400092: Group 32
+    400094: Group 34
+    400096: Group 36
+    400098: Group 38
+    400100: Group 4
+    400102: Group 40
+    400104: Group 42
+    400106: Group 44
+    400108: Group 46
+    400110: Group 48
+    400112: Group 50
+    400114: Group 52
+    400116: Group 54
+    400118: Group 56
+    400120: Group 58
+    400122: Group 6
+    400124: Group 60
+    400126: Group 62
+    400128: Group 64
+    400130: Group 66
+    400132: Group 68
+    400134: Group 70
+    400136: Group 72
+    400138: Group 74
+    400140: Group 76
+    400142: Group 78
+    400144: Group 8
+    400146: Group 80
+    400148: Group 82
+    400150: Group 84
+    400152: Group 86
+    400154: Group 88
+    400156: Group 90
+    400158: Group 92
+    400160: Group 94
+    400162: Group 96
+    400164: Group 98
+    400166: //RootNode
+    400168: stair_eastBasement
+    400170: stair_eastBasement 1
+    400172: stairWall_eastBasement
+    400174: stairWall_eastBasement 1
+    400176: stairWall_eastBasement 2
+    400178: stairWall_eastBasement 3
+    400180: window2x131
+    400182: window2x131 1
+    400184: window2x131 10
+    400186: window2x131 11
+    400188: window2x131 12
+    400190: window2x131 13
+    400192: window2x131 14
+    400194: window2x131 15
+    400196: window2x131 16
+    400198: window2x131 17
+    400200: window2x131 18
+    400202: window2x131 19
+    400204: window2x131 2
+    400206: window2x131 20
+    400208: window2x131 21
+    400210: window2x131 22
+    400212: window2x131 23
+    400214: window2x131 24
+    400216: window2x131 25
+    400218: window2x131 26
+    400220: window2x131 27
+    400222: window2x131 28
+    400224: window2x131 29
+    400226: window2x131 3
+    400228: window2x131 30
+    400230: window2x131 31
+    400232: window2x131 32
+    400234: window2x131 33
+    400236: window2x131 34
+    400238: window2x131 35
+    400240: window2x131 36
+    400242: window2x131 37
+    400244: window2x131 38
+    400246: window2x131 39
+    400248: window2x131 4
+    400250: window2x131 40
+    400252: window2x131 41
+    400254: window2x131 42
+    400256: window2x131 43
+    400258: window2x131 44
+    400260: window2x131 45
+    400262: window2x131 46
+    400264: window2x131 47
+    400266: window2x131 5
+    400268: window2x131 6
+    400270: window2x131 7
+    400272: window2x131 8
+    400274: window2x131 9
+    400276: window_1x03
+    400278: window_1x03 1
+    400280: window_1x03 2
+    400282: window_1x03 3
+    400284: window_1x03 4
+    400286: window_1x03 5
+    400288: window_1x03 6
+    400290: window_1x03 7
+    400292: window_1x_eastBasement
+    400294: window_1x_eastBasement 1
+    400296: window_2x131-05
+    400298: window_2x131-05NoSunp
+    400300: window_2x1x1
+    400302: window_2x1x1 1
+    400304: window_2x1x1 2
+    400306: window_2x1x1 3
+    400308: window_2x1x1 4
+    400310: window_2x1x1 5
+    400312: window_2x_eastBasement
+    400314: window_2x_eastBasement 1
+    400316: window_2x_eastBasement 2
+    400318: window_2x_eastBasement 3
+    400320: window_2x_eastBasement 4
+    400322: window_2x_eastBasement 5
+    400324: window_3x131
+    400326: window_3x131 1
+    400328: window_3x131 10
+    400330: window_3x131 11
+    400332: window_3x131 12
+    400334: window_3x131 2
+    400336: window_3x131 3
+    400338: window_3x131 4
+    400340: window_3x131 5
+    400342: window_3x131 6
+    400344: window_3x131 7
+    400346: window_3x131 8
+    400348: window_3x131 9
+    400350: window_3x131-05NoSunp
+    400352: window_3x131-05NoSunp 1
+    400354: window_3x131-05NoSunp 2
+    400356: window_3x131-05NoSunp 3
+    400358: window_3x131-05NoSunp 4
+    400360: window_4x131-05
+    400362: window_4x131-05 1
+    400364: window_4x131-05 10
+    400366: window_4x131-05 11
+    400368: window_4x131-05 12
+    400370: window_4x131-05 13
+    400372: window_4x131-05 2
+    400374: window_4x131-05 3
+    400376: window_4x131-05 4
+    400378: window_4x131-05 5
+    400380: window_4x131-05 6
+    400382: window_4x131-05 7
+    400384: window_4x131-05 8
+    400386: window_4x131-05 9
+    2300000: door_1
+    2300002: door_1 1
+    2300004: door_1 2
+    2300006: door_eastBasement
+    2300008: door_eastBasement 1
+    2300010: Group 10
+    2300012: Group 100
+    2300014: Group 102
+    2300016: Group 104
+    2300018: Group 106
+    2300020: Group 108
+    2300022: Group 110
+    2300024: Group 112
+    2300026: Group 114
+    2300028: Group 116
+    2300030: Group 118
+    2300032: Group 12
+    2300034: Group 120
+    2300036: Group 122
+    2300038: Group 124
+    2300040: Group 126
+    2300042: Group 128
+    2300044: Group 130
+    2300046: Group 132
+    2300048: Group 134
+    2300050: Group 136
+    2300052: Group 138
+    2300054: Group 14
+    2300056: Group 140
+    2300058: Group 142
+    2300060: Group 144
+    2300062: Group 146
+    2300064: Group 148
+    2300066: Group 150
+    2300068: Group 152
+    2300070: Group 154
+    2300072: Group 156
+    2300074: Group 16
+    2300076: Group 18
+    2300078: Group 2
+    2300080: Group 20
+    2300082: Group 22
+    2300084: Group 24
+    2300086: Group 26
+    2300088: Group 28
+    2300090: Group 30
+    2300092: Group 32
+    2300094: Group 34
+    2300096: Group 36
+    2300098: Group 38
+    2300100: Group 4
+    2300102: Group 40
+    2300104: Group 42
+    2300106: Group 44
+    2300108: Group 46
+    2300110: Group 48
+    2300112: Group 50
+    2300114: Group 52
+    2300116: Group 54
+    2300118: Group 56
+    2300120: Group 58
+    2300122: Group 6
+    2300124: Group 60
+    2300126: Group 62
+    2300128: Group 64
+    2300130: Group 66
+    2300132: Group 68
+    2300134: Group 70
+    2300136: Group 72
+    2300138: Group 74
+    2300140: Group 76
+    2300142: Group 78
+    2300144: Group 8
+    2300146: Group 80
+    2300148: Group 82
+    2300150: Group 84
+    2300152: Group 86
+    2300154: Group 88
+    2300156: Group 90
+    2300158: Group 92
+    2300160: Group 94
+    2300162: Group 96
+    2300164: Group 98
+    2300166: //RootNode
+    2300168: stair_eastBasement
+    2300170: stair_eastBasement 1
+    2300172: stairWall_eastBasement
+    2300174: stairWall_eastBasement 1
+    2300176: stairWall_eastBasement 2
+    2300178: stairWall_eastBasement 3
+    2300180: window2x131
+    2300182: window2x131 1
+    2300184: window2x131 10
+    2300186: window2x131 11
+    2300188: window2x131 12
+    2300190: window2x131 13
+    2300192: window2x131 14
+    2300194: window2x131 15
+    2300196: window2x131 16
+    2300198: window2x131 17
+    2300200: window2x131 18
+    2300202: window2x131 19
+    2300204: window2x131 2
+    2300206: window2x131 20
+    2300208: window2x131 21
+    2300210: window2x131 22
+    2300212: window2x131 23
+    2300214: window2x131 24
+    2300216: window2x131 25
+    2300218: window2x131 26
+    2300220: window2x131 27
+    2300222: window2x131 28
+    2300224: window2x131 29
+    2300226: window2x131 3
+    2300228: window2x131 30
+    2300230: window2x131 31
+    2300232: window2x131 32
+    2300234: window2x131 33
+    2300236: window2x131 34
+    2300238: window2x131 35
+    2300240: window2x131 36
+    2300242: window2x131 37
+    2300244: window2x131 38
+    2300246: window2x131 39
+    2300248: window2x131 4
+    2300250: window2x131 40
+    2300252: window2x131 41
+    2300254: window2x131 42
+    2300256: window2x131 43
+    2300258: window2x131 44
+    2300260: window2x131 45
+    2300262: window2x131 46
+    2300264: window2x131 47
+    2300266: window2x131 5
+    2300268: window2x131 6
+    2300270: window2x131 7
+    2300272: window2x131 8
+    2300274: window2x131 9
+    2300276: window_1x03
+    2300278: window_1x03 1
+    2300280: window_1x03 2
+    2300282: window_1x03 3
+    2300284: window_1x03 4
+    2300286: window_1x03 5
+    2300288: window_1x03 6
+    2300290: window_1x03 7
+    2300292: window_1x_eastBasement
+    2300294: window_1x_eastBasement 1
+    2300296: window_2x131-05
+    2300298: window_2x131-05NoSunp
+    2300300: window_2x1x1
+    2300302: window_2x1x1 1
+    2300304: window_2x1x1 2
+    2300306: window_2x1x1 3
+    2300308: window_2x1x1 4
+    2300310: window_2x1x1 5
+    2300312: window_2x_eastBasement
+    2300314: window_2x_eastBasement 1
+    2300316: window_2x_eastBasement 2
+    2300318: window_2x_eastBasement 3
+    2300320: window_2x_eastBasement 4
+    2300322: window_2x_eastBasement 5
+    2300324: window_3x131
+    2300326: window_3x131 1
+    2300328: window_3x131 10
+    2300330: window_3x131 11
+    2300332: window_3x131 12
+    2300334: window_3x131 2
+    2300336: window_3x131 3
+    2300338: window_3x131 4
+    2300340: window_3x131 5
+    2300342: window_3x131 6
+    2300344: window_3x131 7
+    2300346: window_3x131 8
+    2300348: window_3x131 9
+    2300350: window_3x131-05NoSunp
+    2300352: window_3x131-05NoSunp 1
+    2300354: window_3x131-05NoSunp 2
+    2300356: window_3x131-05NoSunp 3
+    2300358: window_3x131-05NoSunp 4
+    2300360: window_4x131-05
+    2300362: window_4x131-05 1
+    2300364: window_4x131-05 10
+    2300366: window_4x131-05 11
+    2300368: window_4x131-05 12
+    2300370: window_4x131-05 13
+    2300372: window_4x131-05 2
+    2300374: window_4x131-05 3
+    2300376: window_4x131-05 4
+    2300378: window_4x131-05 5
+    2300380: window_4x131-05 6
+    2300382: window_4x131-05 7
+    2300384: window_4x131-05 8
+    2300386: window_4x131-05 9
+    3300000: door_1
+    3300002: door_1 1
+    3300004: door_1 2
+    3300006: door_eastBasement
+    3300008: door_eastBasement 1
+    3300010: Group 10
+    3300012: Group 100
+    3300014: Group 102
+    3300016: Group 104
+    3300018: Group 106
+    3300020: Group 108
+    3300022: Group 110
+    3300024: Group 112
+    3300026: Group 114
+    3300028: Group 116
+    3300030: Group 118
+    3300032: Group 12
+    3300034: Group 120
+    3300036: Group 122
+    3300038: Group 124
+    3300040: Group 126
+    3300042: Group 128
+    3300044: Group 130
+    3300046: Group 132
+    3300048: Group 134
+    3300050: Group 136
+    3300052: Group 138
+    3300054: Group 14
+    3300056: Group 140
+    3300058: Group 142
+    3300060: Group 144
+    3300062: Group 146
+    3300064: Group 148
+    3300066: Group 150
+    3300068: Group 152
+    3300070: Group 154
+    3300072: Group 156
+    3300074: Group 16
+    3300076: Group 18
+    3300078: Group 2
+    3300080: Group 20
+    3300082: Group 22
+    3300084: Group 24
+    3300086: Group 26
+    3300088: Group 28
+    3300090: Group 30
+    3300092: Group 32
+    3300094: Group 34
+    3300096: Group 36
+    3300098: Group 38
+    3300100: Group 4
+    3300102: Group 40
+    3300104: Group 42
+    3300106: Group 44
+    3300108: Group 46
+    3300110: Group 48
+    3300112: Group 50
+    3300114: Group 52
+    3300116: Group 54
+    3300118: Group 56
+    3300120: Group 58
+    3300122: Group 6
+    3300124: Group 60
+    3300126: Group 62
+    3300128: Group 64
+    3300130: Group 66
+    3300132: Group 68
+    3300134: Group 70
+    3300136: Group 72
+    3300138: Group 74
+    3300140: Group 76
+    3300142: Group 78
+    3300144: Group 8
+    3300146: Group 80
+    3300148: Group 82
+    3300150: Group 84
+    3300152: Group 86
+    3300154: Group 88
+    3300156: Group 90
+    3300158: Group 92
+    3300160: Group 94
+    3300162: Group 96
+    3300164: Group 98
+    3300166: //RootNode
+    3300168: stair_eastBasement
+    3300170: stair_eastBasement 1
+    3300172: stairWall_eastBasement
+    3300174: stairWall_eastBasement 1
+    3300176: stairWall_eastBasement 2
+    3300178: stairWall_eastBasement 3
+    3300180: window2x131
+    3300182: window2x131 1
+    3300184: window2x131 10
+    3300186: window2x131 11
+    3300188: window2x131 12
+    3300190: window2x131 13
+    3300192: window2x131 14
+    3300194: window2x131 15
+    3300196: window2x131 16
+    3300198: window2x131 17
+    3300200: window2x131 18
+    3300202: window2x131 19
+    3300204: window2x131 2
+    3300206: window2x131 20
+    3300208: window2x131 21
+    3300210: window2x131 22
+    3300212: window2x131 23
+    3300214: window2x131 24
+    3300216: window2x131 25
+    3300218: window2x131 26
+    3300220: window2x131 27
+    3300222: window2x131 28
+    3300224: window2x131 29
+    3300226: window2x131 3
+    3300228: window2x131 30
+    3300230: window2x131 31
+    3300232: window2x131 32
+    3300234: window2x131 33
+    3300236: window2x131 34
+    3300238: window2x131 35
+    3300240: window2x131 36
+    3300242: window2x131 37
+    3300244: window2x131 38
+    3300246: window2x131 39
+    3300248: window2x131 4
+    3300250: window2x131 40
+    3300252: window2x131 41
+    3300254: window2x131 42
+    3300256: window2x131 43
+    3300258: window2x131 44
+    3300260: window2x131 45
+    3300262: window2x131 46
+    3300264: window2x131 47
+    3300266: window2x131 5
+    3300268: window2x131 6
+    3300270: window2x131 7
+    3300272: window2x131 8
+    3300274: window2x131 9
+    3300276: window_1x03
+    3300278: window_1x03 1
+    3300280: window_1x03 2
+    3300282: window_1x03 3
+    3300284: window_1x03 4
+    3300286: window_1x03 5
+    3300288: window_1x03 6
+    3300290: window_1x03 7
+    3300292: window_1x_eastBasement
+    3300294: window_1x_eastBasement 1
+    3300296: window_2x131-05
+    3300298: window_2x131-05NoSunp
+    3300300: window_2x1x1
+    3300302: window_2x1x1 1
+    3300304: window_2x1x1 2
+    3300306: window_2x1x1 3
+    3300308: window_2x1x1 4
+    3300310: window_2x1x1 5
+    3300312: window_2x_eastBasement
+    3300314: window_2x_eastBasement 1
+    3300316: window_2x_eastBasement 2
+    3300318: window_2x_eastBasement 3
+    3300320: window_2x_eastBasement 4
+    3300322: window_2x_eastBasement 5
+    3300324: window_3x131
+    3300326: window_3x131 1
+    3300328: window_3x131 10
+    3300330: window_3x131 11
+    3300332: window_3x131 12
+    3300334: window_3x131 2
+    3300336: window_3x131 3
+    3300338: window_3x131 4
+    3300340: window_3x131 5
+    3300342: window_3x131 6
+    3300344: window_3x131 7
+    3300346: window_3x131 8
+    3300348: window_3x131 9
+    3300350: window_3x131-05NoSunp
+    3300352: window_3x131-05NoSunp 1
+    3300354: window_3x131-05NoSunp 2
+    3300356: window_3x131-05NoSunp 3
+    3300358: window_3x131-05NoSunp 4
+    3300360: window_4x131-05
+    3300362: window_4x131-05 1
+    3300364: window_4x131-05 10
+    3300366: window_4x131-05 11
+    3300368: window_4x131-05 12
+    3300370: window_4x131-05 13
+    3300372: window_4x131-05 2
+    3300374: window_4x131-05 3
+    3300376: window_4x131-05 4
+    3300378: window_4x131-05 5
+    3300380: window_4x131-05 6
+    3300382: window_4x131-05 7
+    3300384: window_4x131-05 8
+    3300386: window_4x131-05 9
+    4300000: Mesh Hus99_15
+    4300002: Mesh Group 2
+    4300004: Mesh Group 26
+    4300006: Mesh Group 28
+    4300008: Mesh Group 30
+    4300010: Mesh Group 64
+    4300012: Mesh Group 88
+    4300014: Mesh Group 90
+    4300016: Mesh Group 92
+    4300018: Mesh Group 100
+    4300020: Mesh Group 102
+    4300022: Mesh Group 104
+    4300024: Mesh Group 108
+    4300026: Mesh Group 146
+    4300028: Mesh Group 150
+    4300030: Mesh Group 154
+    4300032: Mesh window2x131
+    4300034: Mesh window_1x03
+    4300036: Mesh window_3x131
+    4300038: Mesh window_2x1x1
+    4300040: Mesh door_1
+    4300042: Mesh window_2x131-05
+    4300044: Mesh window_4x131-05
+    4300046: Mesh window_3x131-05NoSunp
+    4300048: Mesh window_2x131-05NoSunp
+    4300050: Mesh window_2x_eastBasement
+    4300052: Mesh door_eastBasement
+    4300054: Mesh window_1x_eastBasement
+    4300056: Mesh stair_eastBasement
+    4300058: Mesh stairWall_eastBasement
+    6400000: door_1
+    6400002: door_1 1
+    6400004: door_1 2
+    6400006: door_eastBasement
+    6400008: door_eastBasement 1
+    6400010: Group 10
+    6400012: Group 100
+    6400014: Group 102
+    6400016: Group 104
+    6400018: Group 106
+    6400020: Group 108
+    6400022: Group 110
+    6400024: Group 112
+    6400026: Group 114
+    6400028: Group 116
+    6400030: Group 118
+    6400032: Group 12
+    6400034: Group 120
+    6400036: Group 122
+    6400038: Group 124
+    6400040: Group 126
+    6400042: Group 128
+    6400044: Group 130
+    6400046: Group 132
+    6400048: Group 134
+    6400050: Group 136
+    6400052: Group 138
+    6400054: Group 14
+    6400056: Group 140
+    6400058: Group 142
+    6400060: Group 144
+    6400062: Group 146
+    6400064: Group 148
+    6400066: Group 150
+    6400068: Group 152
+    6400070: Group 154
+    6400072: Group 156
+    6400074: Group 16
+    6400076: Group 18
+    6400078: Group 2
+    6400080: Group 20
+    6400082: Group 22
+    6400084: Group 24
+    6400086: Group 26
+    6400088: Group 28
+    6400090: Group 30
+    6400092: Group 32
+    6400094: Group 34
+    6400096: Group 36
+    6400098: Group 38
+    6400100: Group 4
+    6400102: Group 40
+    6400104: Group 42
+    6400106: Group 44
+    6400108: Group 46
+    6400110: Group 48
+    6400112: Group 50
+    6400114: Group 52
+    6400116: Group 54
+    6400118: Group 56
+    6400120: Group 58
+    6400122: Group 6
+    6400124: Group 60
+    6400126: Group 62
+    6400128: Group 64
+    6400130: Group 66
+    6400132: Group 68
+    6400134: Group 70
+    6400136: Group 72
+    6400138: Group 74
+    6400140: Group 76
+    6400142: Group 78
+    6400144: Group 8
+    6400146: Group 80
+    6400148: Group 82
+    6400150: Group 84
+    6400152: Group 86
+    6400154: Group 88
+    6400156: Group 90
+    6400158: Group 92
+    6400160: Group 94
+    6400162: Group 96
+    6400164: Group 98
+    6400166: //RootNode
+    6400168: stair_eastBasement
+    6400170: stair_eastBasement 1
+    6400172: stairWall_eastBasement
+    6400174: stairWall_eastBasement 1
+    6400176: stairWall_eastBasement 2
+    6400178: stairWall_eastBasement 3
+    6400180: window2x131
+    6400182: window2x131 1
+    6400184: window2x131 10
+    6400186: window2x131 11
+    6400188: window2x131 12
+    6400190: window2x131 13
+    6400192: window2x131 14
+    6400194: window2x131 15
+    6400196: window2x131 16
+    6400198: window2x131 17
+    6400200: window2x131 18
+    6400202: window2x131 19
+    6400204: window2x131 2
+    6400206: window2x131 20
+    6400208: window2x131 21
+    6400210: window2x131 22
+    6400212: window2x131 23
+    6400214: window2x131 24
+    6400216: window2x131 25
+    6400218: window2x131 26
+    6400220: window2x131 27
+    6400222: window2x131 28
+    6400224: window2x131 29
+    6400226: window2x131 3
+    6400228: window2x131 30
+    6400230: window2x131 31
+    6400232: window2x131 32
+    6400234: window2x131 33
+    6400236: window2x131 34
+    6400238: window2x131 35
+    6400240: window2x131 36
+    6400242: window2x131 37
+    6400244: window2x131 38
+    6400246: window2x131 39
+    6400248: window2x131 4
+    6400250: window2x131 40
+    6400252: window2x131 41
+    6400254: window2x131 42
+    6400256: window2x131 43
+    6400258: window2x131 44
+    6400260: window2x131 45
+    6400262: window2x131 46
+    6400264: window2x131 47
+    6400266: window2x131 5
+    6400268: window2x131 6
+    6400270: window2x131 7
+    6400272: window2x131 8
+    6400274: window2x131 9
+    6400276: window_1x03
+    6400278: window_1x03 1
+    6400280: window_1x03 2
+    6400282: window_1x03 3
+    6400284: window_1x03 4
+    6400286: window_1x03 5
+    6400288: window_1x03 6
+    6400290: window_1x03 7
+    6400292: window_1x_eastBasement
+    6400294: window_1x_eastBasement 1
+    6400296: window_2x131-05
+    6400298: window_2x131-05NoSunp
+    6400300: window_2x1x1
+    6400302: window_2x1x1 1
+    6400304: window_2x1x1 2
+    6400306: window_2x1x1 3
+    6400308: window_2x1x1 4
+    6400310: window_2x1x1 5
+    6400312: window_2x_eastBasement
+    6400314: window_2x_eastBasement 1
+    6400316: window_2x_eastBasement 2
+    6400318: window_2x_eastBasement 3
+    6400320: window_2x_eastBasement 4
+    6400322: window_2x_eastBasement 5
+    6400324: window_3x131
+    6400326: window_3x131 1
+    6400328: window_3x131 10
+    6400330: window_3x131 11
+    6400332: window_3x131 12
+    6400334: window_3x131 2
+    6400336: window_3x131 3
+    6400338: window_3x131 4
+    6400340: window_3x131 5
+    6400342: window_3x131 6
+    6400344: window_3x131 7
+    6400346: window_3x131 8
+    6400348: window_3x131 9
+    6400350: window_3x131-05NoSunp
+    6400352: window_3x131-05NoSunp 1
+    6400354: window_3x131-05NoSunp 2
+    6400356: window_3x131-05NoSunp 3
+    6400358: window_3x131-05NoSunp 4
+    6400360: window_4x131-05
+    6400362: window_4x131-05 1
+    6400364: window_4x131-05 10
+    6400366: window_4x131-05 11
+    6400368: window_4x131-05 12
+    6400370: window_4x131-05 13
+    6400372: window_4x131-05 2
+    6400374: window_4x131-05 3
+    6400376: window_4x131-05 4
+    6400378: window_4x131-05 5
+    6400380: window_4x131-05 6
+    6400382: window_4x131-05 7
+    6400384: window_4x131-05 8
+    6400386: window_4x131-05 9
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

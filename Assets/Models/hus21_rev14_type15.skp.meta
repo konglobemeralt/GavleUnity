@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 3ba10b2368f329f4a8686fb647209393
+timeCreated: 1475311114
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 99ebcb9e631c7e8418728e2c91c9ee6b
+  longitude: 17.118829
+  latitude: 60.668344
+  northCorrection: 1.8494371050475706
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -56.635277, y: 21.974262, z: -60.57449}
+      lookAt: {x: -59.86865, y: 18.373095, z: -40.933815}
+      up: {x: -0.028918732, y: 0.98402554, z: 0.17566285}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baseWindow_21_1
+    100002: baseWindow_21_1 1
+    100004: baseWindow_21_1 10
+    100006: baseWindow_21_1 11
+    100008: baseWindow_21_1 12
+    100010: baseWindow_21_1 13
+    100012: baseWindow_21_1 14
+    100014: baseWindow_21_1 15
+    100016: baseWindow_21_1 16
+    100018: baseWindow_21_1 17
+    100020: baseWindow_21_1 18
+    100022: baseWindow_21_1 19
+    100024: baseWindow_21_1 2
+    100026: baseWindow_21_1 20
+    100028: baseWindow_21_1 21
+    100030: baseWindow_21_1 22
+    100032: baseWindow_21_1 23
+    100034: baseWindow_21_1 24
+    100036: baseWindow_21_1 25
+    100038: baseWindow_21_1 26
+    100040: baseWindow_21_1 27
+    100042: baseWindow_21_1 28
+    100044: baseWindow_21_1 29
+    100046: baseWindow_21_1 3
+    100048: baseWindow_21_1 30
+    100050: baseWindow_21_1 31
+    100052: baseWindow_21_1 32
+    100054: baseWindow_21_1 33
+    100056: baseWindow_21_1 34
+    100058: baseWindow_21_1 35
+    100060: baseWindow_21_1 36
+    100062: baseWindow_21_1 37
+    100064: baseWindow_21_1 38
+    100066: baseWindow_21_1 39
+    100068: baseWindow_21_1 4
+    100070: baseWindow_21_1 40
+    100072: baseWindow_21_1 41
+    100074: baseWindow_21_1 42
+    100076: baseWindow_21_1 43
+    100078: baseWindow_21_1 44
+    100080: baseWindow_21_1 45
+    100082: baseWindow_21_1 46
+    100084: baseWindow_21_1 47
+    100086: baseWindow_21_1 48
+    100088: baseWindow_21_1 49
+    100090: baseWindow_21_1 5
+    100092: baseWindow_21_1 50
+    100094: baseWindow_21_1 6
+    100096: baseWindow_21_1 7
+    100098: baseWindow_21_1 8
+    100100: baseWindow_21_1 9
+    100102: Group 12
+    100104: Group 17
+    100106: Group 2
+    100108: Group 35
+    100110: Group 7
+    100112: h21_Chimney
+    100114: h21_Chimney 1
+    100116: h21_Chimney 2
+    100118: h21_Chimney 3
+    100120: h21_Chimney 4
+    100122: h21_Chimney 5
+    100124: h21_grndFloor_Win
+    100126: h21_grndFloor_Win 1
+    100128: h21_grndFloor_Win 10
+    100130: h21_grndFloor_Win 11
+    100132: h21_grndFloor_Win 12
+    100134: h21_grndFloor_Win 13
+    100136: h21_grndFloor_Win 14
+    100138: h21_grndFloor_Win 15
+    100140: h21_grndFloor_Win 16
+    100142: h21_grndFloor_Win 17
+    100144: h21_grndFloor_Win 18
+    100146: h21_grndFloor_Win 19
+    100148: h21_grndFloor_Win 2
+    100150: h21_grndFloor_Win 20
+    100152: h21_grndFloor_Win 21
+    100154: h21_grndFloor_Win 22
+    100156: h21_grndFloor_Win 23
+    100158: h21_grndFloor_Win 24
+    100160: h21_grndFloor_Win 3
+    100162: h21_grndFloor_Win 4
+    100164: h21_grndFloor_Win 5
+    100166: h21_grndFloor_Win 6
+    100168: h21_grndFloor_Win 7
+    100170: h21_grndFloor_Win 8
+    100172: h21_grndFloor_Win 9
+    100174: h21_trapphus_win_2
+    100176: h21_trapphus_win_2 1
+    100178: h21Vindskupa
+    100180: h21Vindskupa 1
+    100182: h21Vindskupa 10
+    100184: h21Vindskupa 11
+    100186: h21Vindskupa 12
+    100188: h21Vindskupa 13
+    100190: h21Vindskupa 14
+    100192: h21Vindskupa 15
+    100194: h21Vindskupa 2
+    100196: h21Vindskupa 3
+    100198: h21Vindskupa 4
+    100200: h21Vindskupa 5
+    100202: h21Vindskupa 6
+    100204: h21Vindskupa 7
+    100206: h21Vindskupa 8
+    100208: h21Vindskupa 9
+    100210: //RootNode
+    100212: Ljusgrd_Window
+    100214: Ljusgrd_Window 1
+    100216: Ljusgrd_Window 10
+    100218: Ljusgrd_Window 11
+    100220: Ljusgrd_Window 12
+    100222: Ljusgrd_Window 13
+    100224: Ljusgrd_Window 14
+    100226: Ljusgrd_Window 15
+    100228: Ljusgrd_Window 2
+    100230: Ljusgrd_Window 3
+    100232: Ljusgrd_Window 4
+    100234: Ljusgrd_Window 5
+    100236: Ljusgrd_Window 6
+    100238: Ljusgrd_Window 7
+    100240: Ljusgrd_Window 8
+    100242: Ljusgrd_Window 9
+    100244: storVindsk_Win_1
+    100246: storVindsk_Win_1 1
+    100248: storVindsk_Win_1 2
+    400000: baseWindow_21_1
+    400002: baseWindow_21_1 1
+    400004: baseWindow_21_1 10
+    400006: baseWindow_21_1 11
+    400008: baseWindow_21_1 12
+    400010: baseWindow_21_1 13
+    400012: baseWindow_21_1 14
+    400014: baseWindow_21_1 15
+    400016: baseWindow_21_1 16
+    400018: baseWindow_21_1 17
+    400020: baseWindow_21_1 18
+    400022: baseWindow_21_1 19
+    400024: baseWindow_21_1 2
+    400026: baseWindow_21_1 20
+    400028: baseWindow_21_1 21
+    400030: baseWindow_21_1 22
+    400032: baseWindow_21_1 23
+    400034: baseWindow_21_1 24
+    400036: baseWindow_21_1 25
+    400038: baseWindow_21_1 26
+    400040: baseWindow_21_1 27
+    400042: baseWindow_21_1 28
+    400044: baseWindow_21_1 29
+    400046: baseWindow_21_1 3
+    400048: baseWindow_21_1 30
+    400050: baseWindow_21_1 31
+    400052: baseWindow_21_1 32
+    400054: baseWindow_21_1 33
+    400056: baseWindow_21_1 34
+    400058: baseWindow_21_1 35
+    400060: baseWindow_21_1 36
+    400062: baseWindow_21_1 37
+    400064: baseWindow_21_1 38
+    400066: baseWindow_21_1 39
+    400068: baseWindow_21_1 4
+    400070: baseWindow_21_1 40
+    400072: baseWindow_21_1 41
+    400074: baseWindow_21_1 42
+    400076: baseWindow_21_1 43
+    400078: baseWindow_21_1 44
+    400080: baseWindow_21_1 45
+    400082: baseWindow_21_1 46
+    400084: baseWindow_21_1 47
+    400086: baseWindow_21_1 48
+    400088: baseWindow_21_1 49
+    400090: baseWindow_21_1 5
+    400092: baseWindow_21_1 50
+    400094: baseWindow_21_1 6
+    400096: baseWindow_21_1 7
+    400098: baseWindow_21_1 8
+    400100: baseWindow_21_1 9
+    400102: Group 12
+    400104: Group 17
+    400106: Group 2
+    400108: Group 35
+    400110: Group 7
+    400112: h21_Chimney
+    400114: h21_Chimney 1
+    400116: h21_Chimney 2
+    400118: h21_Chimney 3
+    400120: h21_Chimney 4
+    400122: h21_Chimney 5
+    400124: h21_grndFloor_Win
+    400126: h21_grndFloor_Win 1
+    400128: h21_grndFloor_Win 10
+    400130: h21_grndFloor_Win 11
+    400132: h21_grndFloor_Win 12
+    400134: h21_grndFloor_Win 13
+    400136: h21_grndFloor_Win 14
+    400138: h21_grndFloor_Win 15
+    400140: h21_grndFloor_Win 16
+    400142: h21_grndFloor_Win 17
+    400144: h21_grndFloor_Win 18
+    400146: h21_grndFloor_Win 19
+    400148: h21_grndFloor_Win 2
+    400150: h21_grndFloor_Win 20
+    400152: h21_grndFloor_Win 21
+    400154: h21_grndFloor_Win 22
+    400156: h21_grndFloor_Win 23
+    400158: h21_grndFloor_Win 24
+    400160: h21_grndFloor_Win 3
+    400162: h21_grndFloor_Win 4
+    400164: h21_grndFloor_Win 5
+    400166: h21_grndFloor_Win 6
+    400168: h21_grndFloor_Win 7
+    400170: h21_grndFloor_Win 8
+    400172: h21_grndFloor_Win 9
+    400174: h21_trapphus_win_2
+    400176: h21_trapphus_win_2 1
+    400178: h21Vindskupa
+    400180: h21Vindskupa 1
+    400182: h21Vindskupa 10
+    400184: h21Vindskupa 11
+    400186: h21Vindskupa 12
+    400188: h21Vindskupa 13
+    400190: h21Vindskupa 14
+    400192: h21Vindskupa 15
+    400194: h21Vindskupa 2
+    400196: h21Vindskupa 3
+    400198: h21Vindskupa 4
+    400200: h21Vindskupa 5
+    400202: h21Vindskupa 6
+    400204: h21Vindskupa 7
+    400206: h21Vindskupa 8
+    400208: h21Vindskupa 9
+    400210: //RootNode
+    400212: Ljusgrd_Window
+    400214: Ljusgrd_Window 1
+    400216: Ljusgrd_Window 10
+    400218: Ljusgrd_Window 11
+    400220: Ljusgrd_Window 12
+    400222: Ljusgrd_Window 13
+    400224: Ljusgrd_Window 14
+    400226: Ljusgrd_Window 15
+    400228: Ljusgrd_Window 2
+    400230: Ljusgrd_Window 3
+    400232: Ljusgrd_Window 4
+    400234: Ljusgrd_Window 5
+    400236: Ljusgrd_Window 6
+    400238: Ljusgrd_Window 7
+    400240: Ljusgrd_Window 8
+    400242: Ljusgrd_Window 9
+    400244: storVindsk_Win_1
+    400246: storVindsk_Win_1 1
+    400248: storVindsk_Win_1 2
+    2300000: baseWindow_21_1
+    2300002: baseWindow_21_1 1
+    2300004: baseWindow_21_1 10
+    2300006: baseWindow_21_1 11
+    2300008: baseWindow_21_1 12
+    2300010: baseWindow_21_1 13
+    2300012: baseWindow_21_1 14
+    2300014: baseWindow_21_1 15
+    2300016: baseWindow_21_1 16
+    2300018: baseWindow_21_1 17
+    2300020: baseWindow_21_1 18
+    2300022: baseWindow_21_1 19
+    2300024: baseWindow_21_1 2
+    2300026: baseWindow_21_1 20
+    2300028: baseWindow_21_1 21
+    2300030: baseWindow_21_1 22
+    2300032: baseWindow_21_1 23
+    2300034: baseWindow_21_1 24
+    2300036: baseWindow_21_1 25
+    2300038: baseWindow_21_1 26
+    2300040: baseWindow_21_1 27
+    2300042: baseWindow_21_1 28
+    2300044: baseWindow_21_1 29
+    2300046: baseWindow_21_1 3
+    2300048: baseWindow_21_1 30
+    2300050: baseWindow_21_1 31
+    2300052: baseWindow_21_1 32
+    2300054: baseWindow_21_1 33
+    2300056: baseWindow_21_1 34
+    2300058: baseWindow_21_1 35
+    2300060: baseWindow_21_1 36
+    2300062: baseWindow_21_1 37
+    2300064: baseWindow_21_1 38
+    2300066: baseWindow_21_1 39
+    2300068: baseWindow_21_1 4
+    2300070: baseWindow_21_1 40
+    2300072: baseWindow_21_1 41
+    2300074: baseWindow_21_1 42
+    2300076: baseWindow_21_1 43
+    2300078: baseWindow_21_1 44
+    2300080: baseWindow_21_1 45
+    2300082: baseWindow_21_1 46
+    2300084: baseWindow_21_1 47
+    2300086: baseWindow_21_1 48
+    2300088: baseWindow_21_1 49
+    2300090: baseWindow_21_1 5
+    2300092: baseWindow_21_1 50
+    2300094: baseWindow_21_1 6
+    2300096: baseWindow_21_1 7
+    2300098: baseWindow_21_1 8
+    2300100: baseWindow_21_1 9
+    2300102: Group 17
+    2300104: Group 35
+    2300106: h21_Chimney
+    2300108: h21_Chimney 1
+    2300110: h21_Chimney 2
+    2300112: h21_Chimney 3
+    2300114: h21_Chimney 4
+    2300116: h21_Chimney 5
+    2300118: h21_grndFloor_Win
+    2300120: h21_grndFloor_Win 1
+    2300122: h21_grndFloor_Win 10
+    2300124: h21_grndFloor_Win 11
+    2300126: h21_grndFloor_Win 12
+    2300128: h21_grndFloor_Win 13
+    2300130: h21_grndFloor_Win 14
+    2300132: h21_grndFloor_Win 15
+    2300134: h21_grndFloor_Win 16
+    2300136: h21_grndFloor_Win 17
+    2300138: h21_grndFloor_Win 18
+    2300140: h21_grndFloor_Win 19
+    2300142: h21_grndFloor_Win 2
+    2300144: h21_grndFloor_Win 20
+    2300146: h21_grndFloor_Win 21
+    2300148: h21_grndFloor_Win 22
+    2300150: h21_grndFloor_Win 23
+    2300152: h21_grndFloor_Win 24
+    2300154: h21_grndFloor_Win 3
+    2300156: h21_grndFloor_Win 4
+    2300158: h21_grndFloor_Win 5
+    2300160: h21_grndFloor_Win 6
+    2300162: h21_grndFloor_Win 7
+    2300164: h21_grndFloor_Win 8
+    2300166: h21_grndFloor_Win 9
+    2300168: h21_trapphus_win_2
+    2300170: h21_trapphus_win_2 1
+    2300172: h21Vindskupa
+    2300174: h21Vindskupa 1
+    2300176: h21Vindskupa 10
+    2300178: h21Vindskupa 11
+    2300180: h21Vindskupa 12
+    2300182: h21Vindskupa 13
+    2300184: h21Vindskupa 14
+    2300186: h21Vindskupa 15
+    2300188: h21Vindskupa 2
+    2300190: h21Vindskupa 3
+    2300192: h21Vindskupa 4
+    2300194: h21Vindskupa 5
+    2300196: h21Vindskupa 6
+    2300198: h21Vindskupa 7
+    2300200: h21Vindskupa 8
+    2300202: h21Vindskupa 9
+    2300204: //RootNode
+    2300206: Ljusgrd_Window
+    2300208: Ljusgrd_Window 1
+    2300210: Ljusgrd_Window 10
+    2300212: Ljusgrd_Window 11
+    2300214: Ljusgrd_Window 12
+    2300216: Ljusgrd_Window 13
+    2300218: Ljusgrd_Window 14
+    2300220: Ljusgrd_Window 15
+    2300222: Ljusgrd_Window 2
+    2300224: Ljusgrd_Window 3
+    2300226: Ljusgrd_Window 4
+    2300228: Ljusgrd_Window 5
+    2300230: Ljusgrd_Window 6
+    2300232: Ljusgrd_Window 7
+    2300234: Ljusgrd_Window 8
+    2300236: Ljusgrd_Window 9
+    2300238: storVindsk_Win_1
+    2300240: storVindsk_Win_1 1
+    2300242: storVindsk_Win_1 2
+    3300000: baseWindow_21_1
+    3300002: baseWindow_21_1 1
+    3300004: baseWindow_21_1 10
+    3300006: baseWindow_21_1 11
+    3300008: baseWindow_21_1 12
+    3300010: baseWindow_21_1 13
+    3300012: baseWindow_21_1 14
+    3300014: baseWindow_21_1 15
+    3300016: baseWindow_21_1 16
+    3300018: baseWindow_21_1 17
+    3300020: baseWindow_21_1 18
+    3300022: baseWindow_21_1 19
+    3300024: baseWindow_21_1 2
+    3300026: baseWindow_21_1 20
+    3300028: baseWindow_21_1 21
+    3300030: baseWindow_21_1 22
+    3300032: baseWindow_21_1 23
+    3300034: baseWindow_21_1 24
+    3300036: baseWindow_21_1 25
+    3300038: baseWindow_21_1 26
+    3300040: baseWindow_21_1 27
+    3300042: baseWindow_21_1 28
+    3300044: baseWindow_21_1 29
+    3300046: baseWindow_21_1 3
+    3300048: baseWindow_21_1 30
+    3300050: baseWindow_21_1 31
+    3300052: baseWindow_21_1 32
+    3300054: baseWindow_21_1 33
+    3300056: baseWindow_21_1 34
+    3300058: baseWindow_21_1 35
+    3300060: baseWindow_21_1 36
+    3300062: baseWindow_21_1 37
+    3300064: baseWindow_21_1 38
+    3300066: baseWindow_21_1 39
+    3300068: baseWindow_21_1 4
+    3300070: baseWindow_21_1 40
+    3300072: baseWindow_21_1 41
+    3300074: baseWindow_21_1 42
+    3300076: baseWindow_21_1 43
+    3300078: baseWindow_21_1 44
+    3300080: baseWindow_21_1 45
+    3300082: baseWindow_21_1 46
+    3300084: baseWindow_21_1 47
+    3300086: baseWindow_21_1 48
+    3300088: baseWindow_21_1 49
+    3300090: baseWindow_21_1 5
+    3300092: baseWindow_21_1 50
+    3300094: baseWindow_21_1 6
+    3300096: baseWindow_21_1 7
+    3300098: baseWindow_21_1 8
+    3300100: baseWindow_21_1 9
+    3300102: Group 17
+    3300104: Group 35
+    3300106: h21_Chimney
+    3300108: h21_Chimney 1
+    3300110: h21_Chimney 2
+    3300112: h21_Chimney 3
+    3300114: h21_Chimney 4
+    3300116: h21_Chimney 5
+    3300118: h21_grndFloor_Win
+    3300120: h21_grndFloor_Win 1
+    3300122: h21_grndFloor_Win 10
+    3300124: h21_grndFloor_Win 11
+    3300126: h21_grndFloor_Win 12
+    3300128: h21_grndFloor_Win 13
+    3300130: h21_grndFloor_Win 14
+    3300132: h21_grndFloor_Win 15
+    3300134: h21_grndFloor_Win 16
+    3300136: h21_grndFloor_Win 17
+    3300138: h21_grndFloor_Win 18
+    3300140: h21_grndFloor_Win 19
+    3300142: h21_grndFloor_Win 2
+    3300144: h21_grndFloor_Win 20
+    3300146: h21_grndFloor_Win 21
+    3300148: h21_grndFloor_Win 22
+    3300150: h21_grndFloor_Win 23
+    3300152: h21_grndFloor_Win 24
+    3300154: h21_grndFloor_Win 3
+    3300156: h21_grndFloor_Win 4
+    3300158: h21_grndFloor_Win 5
+    3300160: h21_grndFloor_Win 6
+    3300162: h21_grndFloor_Win 7
+    3300164: h21_grndFloor_Win 8
+    3300166: h21_grndFloor_Win 9
+    3300168: h21_trapphus_win_2
+    3300170: h21_trapphus_win_2 1
+    3300172: h21Vindskupa
+    3300174: h21Vindskupa 1
+    3300176: h21Vindskupa 10
+    3300178: h21Vindskupa 11
+    3300180: h21Vindskupa 12
+    3300182: h21Vindskupa 13
+    3300184: h21Vindskupa 14
+    3300186: h21Vindskupa 15
+    3300188: h21Vindskupa 2
+    3300190: h21Vindskupa 3
+    3300192: h21Vindskupa 4
+    3300194: h21Vindskupa 5
+    3300196: h21Vindskupa 6
+    3300198: h21Vindskupa 7
+    3300200: h21Vindskupa 8
+    3300202: h21Vindskupa 9
+    3300204: //RootNode
+    3300206: Ljusgrd_Window
+    3300208: Ljusgrd_Window 1
+    3300210: Ljusgrd_Window 10
+    3300212: Ljusgrd_Window 11
+    3300214: Ljusgrd_Window 12
+    3300216: Ljusgrd_Window 13
+    3300218: Ljusgrd_Window 14
+    3300220: Ljusgrd_Window 15
+    3300222: Ljusgrd_Window 2
+    3300224: Ljusgrd_Window 3
+    3300226: Ljusgrd_Window 4
+    3300228: Ljusgrd_Window 5
+    3300230: Ljusgrd_Window 6
+    3300232: Ljusgrd_Window 7
+    3300234: Ljusgrd_Window 8
+    3300236: Ljusgrd_Window 9
+    3300238: storVindsk_Win_1
+    3300240: storVindsk_Win_1 1
+    3300242: storVindsk_Win_1 2
+    4300000: Mesh hus21_rev14_type15
+    4300002: Mesh h21_Chimney
+    4300004: Mesh Group 17
+    4300006: Mesh baseWindow_21_1
+    4300008: Mesh Group 35
+    4300010: Mesh h21Vindskupa
+    4300012: Mesh storVindsk_Win_1
+    4300014: Mesh h21_grndFloor_Win
+    4300016: Mesh Ljusgrd_Window
+    4300018: Mesh h21_trapphus_win_2
+    4300020: Mesh h21_grndFloor_Win
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
