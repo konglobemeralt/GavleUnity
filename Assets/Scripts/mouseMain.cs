@@ -76,7 +76,12 @@ public class mouseMain : MonoBehaviour {
         Renderer[] rs = selectedObject.GetComponentsInChildren<Renderer>();
         foreach (Renderer r in rs)
         {
-            r.material.shader = shaderOutline;
+            foreach (Material mat in r.materials)
+            {
+                mat.shader = shaderOutline;
+
+                //mat.color = Color.green;
+            }
         }
     }
 
@@ -86,7 +91,11 @@ public class mouseMain : MonoBehaviour {
         Renderer[] rs = selectedObject.GetComponentsInChildren<Renderer>();
         foreach (Renderer r in rs)
         {
-            r.material.shader = shaderStandard;
+            foreach (Material mat in r.materials)
+            {
+                mat.shader = shaderStandard;
+                //mat.color = Color.white;
+            }
         }
         selectedObject = null;
     }
