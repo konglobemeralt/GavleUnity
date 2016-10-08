@@ -64,7 +64,7 @@ public class cameraMain : MonoBehaviour
     void OnGUI()
     {
         // Make a background box
-        GUI.Box(new Rect(10, 10, 500, 100), "Camera Controlls");
+        GUI.Box(new Rect(10, 10, 500, 100), "Keys: C to switch cameras, X LOD on/off");
 
         //Switch To bird
         if (GUI.Button(new Rect(20, 40, 80, 20), "BirdCam"))

@@ -39,19 +39,19 @@ public class mouseMain : MonoBehaviour {
             
             if (hit)
             {
-                Debug.Log("Hit " + hitInfo.transform.gameObject.name);
+                //Debug.Log("Hit " + hitInfo.transform.gameObject.name);
                 if (hitInfo.transform.gameObject.tag == "Houses")
                 {
                     selectObject(hitInfo.transform.gameObject);
-                    Debug.Log("It's working!");
+                   // Debug.Log("It's working!");
                 }
                 else {
-                    Debug.Log("nopz");
+                   // Debug.Log("nopz");
                     
                 }
             }
             else {
-                Debug.Log("No hit");
+                //Debug.Log("No hit");
                 clearSelection();
             }
    

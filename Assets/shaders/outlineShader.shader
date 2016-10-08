@@ -39,12 +39,12 @@
 			// transform position to clip space
 			// (multiply with model*view*projection matrix)
 			o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
-			// just pass the texture coordinate
+			// pass the texture coordinate
 			o.uv = v.uv;
 			return o;
 		}
 
-		// texture we will sample
+		// texture to sample
 		sampler2D _MainTex;
 
 		// pixel shader; returns low precision ("fixed4" type)
